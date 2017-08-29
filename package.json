@@ -1,0 +1,16 @@
+{
+    "name": "radio_simplon",
+    "version": "1.0.0",
+    "description": "radio_simplon_es6",
+    "author": "Shynobee <w.khouaji@gmail.com>",
+    "private": true,
+    "scripts": {
+        "dev": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.15.4",
+        "http": "0.0.0",
+        "http-router": "^0.5.0"
+    },
+    "devDependencies": {}
+}
